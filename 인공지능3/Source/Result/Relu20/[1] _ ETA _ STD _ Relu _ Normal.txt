@@ -1,0 +1,6 @@
+은닉 계층 1개를 갖는 다층 퍼셉트론이 작동되었습니다.
+Epoch 10: loss=1.609, accuracy=0.215/0.141
+Epoch 20: loss=1.609, accuracy=0.215/0.141
+Epoch 30: loss=1.609, accuracy=0.215/0.141
+Epoch 40: loss=1.609, accuracy=0.215/0.141
+Epoch 50: loss=1.609, accuracy=0.215/0.141
